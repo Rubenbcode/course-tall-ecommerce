@@ -1,0 +1,11 @@
+{
+    "Email" : "Correo",
+    "Password" : "Contraseña",
+    "Remember me" : "Recuerdame",
+    "Forgot your password?": "Olvidaste tu contraseña",
+    "Log in" : "Inicia sesión",
+    "white" : "blanco",
+    "blue" : "azul",
+    "black" : "Negro",
+    "red" :"rojo"
+}
